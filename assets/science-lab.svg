@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#dff5ff"/><stop offset="1" stop-color="#eef8ff"/></linearGradient><linearGradient id="coat" x1="0" x2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#dcefff"/></linearGradient></defs>
+<rect width="1200" height="700" rx="38" fill="url(#bg)"/>
+<circle cx="930" cy="130" r="120" fill="#c8ecff" opacity=".55"/><circle cx="1020" cy="280" r="180" fill="#b8e7ff" opacity=".3"/>
+<rect x="70" y="500" width="1060" height="45" rx="22" fill="#b6d9e8"/>
+<!-- scientist -->
+<circle cx="690" cy="205" r="58" fill="#a96d50"/><path d="M650 194c12-55 90-64 111 2-25-22-72-25-111-2z" fill="#1a2634"/>
+<path d="M600 520c8-175 35-245 90-280 50 30 104 32 145 0 70 50 89 130 102 280z" fill="url(#coat)"/>
+<path d="M670 262l-70 105 58 30 62-95z" fill="#fff"/><path d="M770 270l95 110-50 35-75-94z" fill="#fff"/>
+<!-- microscope -->
+<g fill="none" stroke="#143a57" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+<path d="M260 450h230"/><path d="M330 450c20-85 35-125 90-160"/><path d="M420 290l55-45"/><path d="M475 245l42 15"/><path d="M420 292l-50-35"/><path d="M350 470h170"/><path d="M430 430v-75"/>
+</g>
+<path d="M470 260h105v55H470z" fill="#3f9bd0" opacity=".65"/><circle cx="430" cy="355" r="12" fill="#2b8fc7"/>
+<g opacity=".75"><rect x="90" y="120" width="120" height="250" rx="20" fill="#fff"/><rect x="115" y="165" width="70" height="140" rx="10" fill="#77c8e8"/><path d="M115 230h70" stroke="#fff" stroke-width="9"/></g>
+</svg>
